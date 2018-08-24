@@ -8,9 +8,10 @@ namespace GitTest
 {
 	class Program
 	{
-		static void Main(string[] args)
+		static void Main(string[] args) 
 		{
-			Console.WriteLine("Hej World");
+			Console.WriteLine("Hello World this be the great test" );// Kanske Hello word? duuh engelska är bra
+			
 		}
 	}
 }
