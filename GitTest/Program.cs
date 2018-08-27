@@ -10,6 +10,8 @@ namespace GitTest
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("printa ett feltstavat meddelande");
+			Console.Read();
 		}
 	}
 }
