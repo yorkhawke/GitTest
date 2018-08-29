@@ -11,7 +11,10 @@ namespace GitTest
 		static void Main(string[] args)
 		{
 			Console.WriteLine("printa ett felstavat meddelande");
+			Console.WriteLine("text från lämmelbranchen");
 			Console.Read();
+
+			// mer saker från lämmel
 		}
 	}
 }
